@@ -24,14 +24,14 @@ public:
 //    string number;
 //    bool isNegative;
 //
-//    // Вспомогательные методы
+//    // Г‚Г±ГЇГ®Г¬Г®ГЈГ ГІГҐГ«ГјГ­Г»ГҐ Г¬ГҐГІГ®Г¤Г»
 //    string subtractStrings(const string& num1, const string& num2) const;
 //    string divideStrings(const string& num1, const string& num2) const;
 //
 //public:
 //    VeryLong(string num = "0");
 //
-//    // Перегрузка операторов
+//    // ГЏГҐГ°ГҐГЈГ°ГіГ§ГЄГ  Г®ГЇГҐГ°Г ГІГ®Г°Г®Гў
 //    VeryLong operator-(const VeryLong& other);
 //    VeryLong operator/(const VeryLong& other);
 //
