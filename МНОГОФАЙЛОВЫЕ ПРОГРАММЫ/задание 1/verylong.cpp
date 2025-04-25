@@ -5,7 +5,7 @@ VeryLong::VeryLong() :a(0) {}
 VeryLong::VeryLong(long double a1) :a(a1) {}
 
 void VeryLong::getdata() {
-	cout << "Ââåäèòå ÷èñëî -> "; cin >> a;
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã·Ã¨Ã±Ã«Ã® -> "; cin >> a;
 }
 
 VeryLong VeryLong::operator-(const VeryLong& other){
@@ -19,7 +19,7 @@ VeryLong VeryLong::operator*(const VeryLong& other) {
 }
 VeryLong VeryLong::operator/(const VeryLong& other) {
 	if (other.a != 0) return VeryLong(a / other.a);
-	else cout << "Íà íîëü äåëèòü íåëüçÿ!" << endl;
+	else cout << "ÃÃ  Ã­Ã®Ã«Ã¼ Ã¤Ã¥Ã«Ã¨Ã²Ã¼ Ã­Ã¥Ã«Ã¼Ã§Ã¿!" << endl;
 }
 void VeryLong::putdata() {
 	cout << a;
