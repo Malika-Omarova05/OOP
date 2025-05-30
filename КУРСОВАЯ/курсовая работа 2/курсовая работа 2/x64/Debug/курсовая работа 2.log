@@ -1,0 +1,13 @@
+﻿  ClassesSchedule.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  administrator.cpp
+  class.cpp
+  journal.cpp
+C:\Users\malik\OneDrive\Рабочий стол\ООП\курсовая работа 2\курсовая работа 2\journal.cpp(132,9): warning C4101: grade: неиспользованная локальная переменная
+  main.cpp
+  parent.cpp
+  schedule.cpp
+  student.cpp
+  teacher.cpp
+  Создание кода...
+  курсовая работа 2.vcxproj -> C:\Users\malik\OneDrive\Рабочий стол\ООП\курсовая работа 2\x64\Debug\курсовая работа 2.exe
